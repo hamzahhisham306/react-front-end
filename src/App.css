@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: #25316D;
+  color: #FEF5AC;
+}
+form button{
+ text-align: center;
+ font-size: 20px;
+ background-color: #97D2EC;
+ color: #25316D;
+}
+input{
+  font-size: 25px;
+}
+label{
+  font-size: 20px;
+}
+h1{
+  color: #97D2EC;
+  padding-bottom: 30px;
+}
